@@ -1,0 +1,61 @@
+body {
+  margin: 0 0 0 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+/*.mountain{
+  text-align: center;
+  width: 1024px;
+  height: 720px;
+}*/
+h1 {
+
+  font-family: 'Courgette', cursive;
+  font-size: 6em;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+p {
+  padding-left: 10px;
+}
+
+.top-container {
+  background-color: #dcedc1;
+  position: relative;
+  padding-top: 100px;
+}
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+}
+.profile-photo{
+  height: 200px;
+  width: 200px;
+  border-radius: 100px 100px 100px 100px;
+}
+
+.middle-container {
+  background-color: #dcedc1;
+}
+
+.bottom-container {
+  background-color: #dcedc1;
+
+}
+.contact-me{
+  background-color: #dcedc1;
+
+}

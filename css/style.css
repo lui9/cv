@@ -77,7 +77,7 @@ p {
   font-weight: normal;
 }
 
-.skill-row {
+.skills-container{
   width: 50%;
   margin: 100px auto 100px auto;
   text-align: left;

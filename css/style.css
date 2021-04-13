@@ -92,7 +92,7 @@ p {
 }
 
 .dev-description{
-  margin-top:50px;
+  margin:50px auto 50px auto;
 }
 
 .stratos-pic {
@@ -103,7 +103,7 @@ p {
   margin: 50px 30px auto auto;
 }
 .stratos-description{
- margin-top:50px;
+ margin:50px auto 50px auto;
 }
 
 .intro {

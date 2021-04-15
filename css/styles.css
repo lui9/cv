@@ -191,3 +191,14 @@ a:hover {
    border-radius: 20px;
    text-decoration: none;
 }
+
+.english{
+  position:absolute;
+  margin-left:0;
+  margin-top:0;
+}
+.deutsch{
+  position:absolute;
+  margin-left:60;
+  margin-top:0;
+}

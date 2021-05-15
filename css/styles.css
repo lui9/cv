@@ -202,3 +202,10 @@ a:hover {
   right:10px;
   top:10px;
 }
+
+
+@media (max-width: 767px) { 
+  html { 
+       font-size: 25px; 
+  } 
+}
